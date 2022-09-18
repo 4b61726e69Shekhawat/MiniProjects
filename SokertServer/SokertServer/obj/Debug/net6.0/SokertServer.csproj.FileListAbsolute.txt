@@ -1,0 +1,15 @@
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\bin\Debug\net6.0\SokertServer.exe
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\bin\Debug\net6.0\SokertServer.deps.json
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\bin\Debug\net6.0\SokertServer.runtimeconfig.json
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\bin\Debug\net6.0\SokertServer.dll
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\bin\Debug\net6.0\SokertServer.pdb
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.csproj.AssemblyReference.cache
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.AssemblyInfoInputs.cache
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.AssemblyInfo.cs
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.csproj.CoreCompileInputs.cache
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.dll
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\refint\SokertServer.dll
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.pdb
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\SokertServer.genruntimeconfig.cache
+C:\Codes\Study Material\MiniProjects\SokertServer\SokertServer\obj\Debug\net6.0\ref\SokertServer.dll

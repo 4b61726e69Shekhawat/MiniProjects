@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBYtbu7zwS6B0s+elKhQ/mL1//PCf2WXXFlsjZnRtW7Tre9S6ajpu+gAXlaeQ0eGuwIgdKSNeuhbJDsG5Iq7UA==",
+  "success": true,
+  "projectFilePath": "C:\\Codes\\Study Material\\MiniProjects\\SokertServer\\SokertServer\\SokertServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shekhawat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Shekhawat\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Shekhawat\\.nuget\\packages\\system.net.primitives\\4.3.1\\system.net.primitives.4.3.1.nupkg.sha512",
+    "C:\\Users\\Shekhawat\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Shekhawat\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
